@@ -19,7 +19,7 @@ $ pip install maskcovid
 ```
 $ maskcovid
 ```
-<img src="">
+<img src="https://github.com/i-inose/maskcovid/blob/main/maskcovid.png?raw=true">
 
 
 Written by Izuru Inose<br>
