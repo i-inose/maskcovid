@@ -7,7 +7,7 @@ Japan's policy of liberalizing the wearing of masks began on March 13, 2023.<br>
 
 It is difficult to judge now (as of April 3, 2023) because only a little time has passed since the policy was initiated, but an increase in the number of infected people in the future could show that the policy was wrong.<br>
 
-hiscovid scrapes the latest data from the following site over the Internet : https://covid19.mhlw.go.jp/public/opendata/newly_confirmed_cases_daily.csv<br>
+maskcovid scrapes the latest data from the following site over the Internet : https://covid19.mhlw.go.jp/public/opendata/newly_confirmed_cases_daily.csv<br>
 
 ## How to install maskcovid
 ```
