@@ -22,5 +22,5 @@ $ maskcovid
 <img src="https://github.com/i-inose/maskcovid/blob/main/maskcovid.png?raw=true">
 
 
-Written by Izuru Inose<br>
+Written by Izuru Inose / 伊野瀬出<br>
 -At the Takefuji Lab-
